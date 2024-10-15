@@ -1,0 +1,15 @@
+[
+    {
+      "relation": [
+        "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.example.musicwiki",
+        "sha256_cert_fingerprints": [
+          "63:AE:54:12:C5:5C:22:18:EE:8C:E2:4D:69:0F:64:BD:D1:BE:08:24:B5:5D:2D:CE:0F:98:08:8E:AE:1A:03:34",
+          "0C:9D:DF:0A:1F:AF:A9:3B:0B:E2:95:97:6F:F3:8B:42:FD:0D:FD:59:8C:E2:F3:D3:14:54:AF:A4:66:0B:DD:36"
+        ]
+      }
+    }
+  ]
